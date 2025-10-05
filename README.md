@@ -1,11 +1,6 @@
----
+
 
 ## 📝 Todo List Web App
-
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Made With HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Made With CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Made With JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
 
@@ -33,8 +28,12 @@ Built with **HTML, CSS, and JavaScript**, this app is offline-friendly and store
 ## 🎨 Screenshots
 
 **Desktop View**
-![Desktop View](screenshots/desktop.png)
-![alt text](image.png)
+
+<img width="1923" height="906" alt="Screenshot 2025-10-05 132519" src="https://github.com/user-attachments/assets/3985fa81-c83e-46d6-bb11-249e88047039" />
+
+<img width="1923" height="908" alt="Screenshot 2025-10-05 132530" src="https://github.com/user-attachments/assets/440c0b33-c7cd-40d7-be1b-66a276de236b" />
+
+<img width="1923" height="969" alt="Screenshot 2025-10-05 132539" src="https://github.com/user-attachments/assets/403dd99b-7adb-4f0c-8305-e1c12643dabc" />
 
 ---
 
@@ -52,7 +51,7 @@ Built with **HTML, CSS, and JavaScript**, this app is offline-friendly and store
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone [https://github.com/maahi-reddy/To-Do-List.git]
    ```
 2. **Open the app**
    Navigate to the project folder and open `index.html` in your browser.
@@ -85,7 +84,8 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 ## 👤 Author
 
-Developed by [Your Name]
+Developed by Mahika Dachireddy
 [GitHub Profile](https://github.com/maahi-reddy) | [LinkedIn](https://linkedin.com/in/mahika-dachireddy-b7002b369)
+
 
 ---
